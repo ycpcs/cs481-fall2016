@@ -1,0 +1,12 @@
+name: ""
+description: ""
+
+url: "http://ycpcs.github.io/cs481-fall2016"
+
+
+kramdown:
+    input: GFM
+    hard_wrap: false
+gems:
+    - jekyll-coffeescript
+    - jekyll-paginate
