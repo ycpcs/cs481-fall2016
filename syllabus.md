@@ -4,10 +4,15 @@ course_number: CS481
 title: Syllabus
 ---
 
-------------------
-##CS 481: Senior Software Project I
-##Fall 2016
-------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+## CS 481: Senior Software Project I
+
+## Fall 2016
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
 
 **Meeting Times:**
 
@@ -34,8 +39,11 @@ Tu Th: 11:00 AM - 12:00 PM
 ??
 
 
-------------------
-###Course Description
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
+### Course Description
 
 
 Student teams will complete a substantial project provided by sponsors drawn from both industry and research organizations. These projects will be developed under the direction of the course instructor and members of the sponsoring organization.
@@ -44,8 +52,11 @@ Student teams will complete a substantial project provided by sponsors drawn fro
 **Credit:**		3 credit hours<br>
 **Text:**  None
 
-------------------
-###Grading Policy
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
+### Grading Policy
 
 Your team's grade will be determined as a weighted average of the grades on the 7 assignments, as follows:
 
@@ -69,14 +80,19 @@ Grades will be assigned on a 100-point scale according to the following table:
 | ≥ 60 and &lt; 70  |   1.0    |
 | &lt; 60           |    0     |
 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-------------------
-###Attendance Policy
+
+
+### Attendance Policy
 
 Attendance at the weekly meeting is mandatory.
 
-------------------
-###Academic Integrity
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
+### Academic Integrity
 
 York College's mission statement stipulates that strict adherence to
 principles of academic honesty is expected of all students. Therefore,
@@ -121,23 +137,35 @@ the Student Welfare Committee has unjustly sanctioned them may submit
 a written appeal to the Dean of Academic Affairs within 72 hours of
 receiving notification of the Student Welfare Committee's sanction.
 
-------------------
-###Personal Technology Policy
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
+### Personal Technology Policy
 
 While York College recognizes students’ need for educational and emergency-related technological devices such as laptops, PDAs, cellular phones, etc., using them unethically or recreationally during class time is never appropriate.  The college recognizes and supports faculty members’ authority to regulate in their classrooms student use of all electronic devices.
 
 
-------------------
-###Communication Standards
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
+### Communication Standards
 
 York College recognizes the importance of effective communication in all disciplines and careers.  Therefore, students are expected to competently analyze, synthesize, organize, and articulate course material in papers, examinations and presentations.  In addition, students should know and use communication skills current to their field of study, recognize the need for revision as part of their writing process, and employ standard conventions of English usage in both writing and speaking.  Students may be asked to further revise assignments that do not demonstrate effective use of these communication skills.
 
 
-------------------
-###Students with Disabilities
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
+### Students with Disabilities
 
 If you are a student with a disability in need of a classroom accommodation and have not already registered with Linda Miller, Director of Disability Support Services, please contact her at 815-1785 or [lmille18@ycp.edu](mailto:lmille18@ycp.edu) to discuss policies and procedures related to disability services and to establish the accommodations for which you are eligible.
 
-------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 
 **Disclaimer:**	This syllabus is subject to change by the instructor.
