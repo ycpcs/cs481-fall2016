@@ -6,7 +6,10 @@ title: Final Report Details
 
 This document describes what we expect to see in the final report for your team project.
 
------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 ## Sections
 
 
@@ -31,7 +34,10 @@ The **implementation** section should describe the process you used to turn your
 
 The **future work** section should mention some possible ways that your system could be extended and improved in the future.
 
------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 ## Writing Is Important!
 
 

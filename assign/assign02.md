@@ -4,7 +4,10 @@ course_number: CS481
 title: Weekly Progress Demos
 ---
 
-----------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 # Expectations for Weekly Demos
 
 Here are what we would like to see from you for the weekly (Monday) demos.
@@ -35,7 +38,10 @@ Here are some of the ways you can demonstrate progress:
 * **Prototype code**: A standalone proof-of-concept demo is fine, especially in the early stages of the project.  However, all such work needs to be integrated into the main codebase in a timely manner.
 * **Equipment/apparatus**: If your project has external equipment or apparatus, then you can show us progress on its construction and setup.  However, time spent on equipment/apparatus should be the mininum necessary to support the needs of the software you are creating.
 
-----------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 # Evaluation
 
 For each weekly demo, your team will received one of the following evaluations:

@@ -4,15 +4,18 @@ course_number: CS481
 title: Final System, Report, and Presentation
 ---
 
-**Draft Report Due:** Wednesday, Dec 16th by 11:59 PM
+**Draft Report Due:** Wednesday, Dec XXth by 11:59 PM
 
-**Presentations:** Monday, Dec 21st at 1:00 PM in KEC 119
+**Presentations:** Monday, Dec XXst at 1:00 PM in KEC 119
 
-**Final Report Due:** Monday, Dec 21st by 11:59 PM
+**Final Report Due:** Monday, Dec XXst by 11:59 PM
 
 This is a **Team** assignment.
 
------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 # Your Task
 
 Your task is to complete a final report documenting your project, and to give a presentation on the project. Our expectations for the report are described in the [Final Report Details](finalreport.html) document.
@@ -49,7 +52,10 @@ Here is a suggested structure for your presentation:
 
 Make sure that your presentation is ready to go immediately when it is your group's turn, since you will have only a minute or two to set up. (That's plenty of time to connect a laptop to the projector cable.)
 
------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 # Grading
 
 Your assignment grade will be determined as follows:
@@ -66,7 +72,10 @@ Your assignment grade will be determined as follows:
 -   Project Assessment: **20%**
 -   Final Report: **10%**
 
------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 # Submitting
 
 Submit the draft report **in PDF format** via email to both of your instructors.

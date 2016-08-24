@@ -6,7 +6,10 @@ title: Minimal Working System
 
 This is a **Team** assignment.
 
-----------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 # Your Task
 
 
@@ -21,26 +24,30 @@ For example, let's say you're developing a 3-D game which eventually will suppor
 
 **Extremely important**: whatever functionality you demonstrate should be implemented in your core object model classes. We do **not** want to see a hacked-together "prototype" that looks good but internally is spaghetti.
 
-----------
-#The Demonstration
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
+# The Demonstration
 
 Your group should plan to present for 8 minutes. Your presentation should include the following elements:
 
--   Demonstrate the system in action. If you have a UI, show it.
--   Run your unit tests to demonstrate your testing framework, and describe what is happening.
--   Explain what parts of your design are implemented, and which parts remain to be implemented by referencing your UML diagram. Briefly talk about how you plan to evolve the system to implement the remaining functionality.
+- Demonstrate the system in action. If you have a UI, show it.
+- Run your unit tests to demonstrate your testing framework, and describe what is happening.
+- Explain what parts of your design are implemented, and which parts remain to be implemented by referencing your UML diagram. Briefly talk about how you plan to evolve the system to implement the remaining functionality.
 
 **Please do a dry run before class.** Because of the limited amount of time we have in class, we can't wait for your group to troubleshoot.
 
-----------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 # Grading
 
 
 Your grade will be determined as follows:
 
--   Important system functionality is demonstrated: **50%**
--   Demonstation of Unit tests: **20%**
--   Discussion of how this functionality is implemented in the underlying object model: **20%**
--   Discussion of how system will be evolved to add remaining functionality: **10%**
-
- 
+- Important system functionality is demonstrated: **50%**
+- Demonstation of Unit tests: **20%**
+- Discussion of how this functionality is implemented in the underlying object model: **20%**
+- Discussion of how system will be evolved to add remaining functionality: **10%**

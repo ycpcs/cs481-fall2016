@@ -6,7 +6,10 @@ title: Requirements
 
 This is a **Team** assignment.
 
-----------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 # Your Task
 
 Your task is to document the requirements for your project by adding them as issues and milestones to your main GitHub repository.
@@ -27,7 +30,10 @@ Each milestone should then be assigned appropriate issues describing the feature
 
 Be sure that as progress on the project proceeds, issues are labeled appropriately and at least weekly comments are added describing work that was accomplished.
 
-----------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 # Grading Criteria
 
 -   Create milestones in the github issue tracker: **15%**

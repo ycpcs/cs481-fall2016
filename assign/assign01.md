@@ -6,12 +6,18 @@ title: Project Proposal
 
 This is a **Team** assignment. **Create a document in Google Docs so that team members can work collaboratively.**
 
-------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 # Tasks
 
 There are three tasks which are part of this assignment.
 
-------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 ## Proposal
 
 Your first task is to propose a group project that your team will work on. Your team must choose a project in which you will design and implement a substantial software system.
@@ -31,7 +37,10 @@ Use diagrams as appropriate to convey this information clearly.
 
 We **strongly** encourage you to meet with us to discuss project ideas before you submit your formal project proposal.
 
-------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 ## Set up a GitHub repository
 
 Your second task is to create a main repository for your project on [GitHub](https://github.com).
@@ -46,7 +55,10 @@ In the issue tracker for the main repository, create three labels:
 
 Your group may add additional labels as desired.
 
-------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 ## Set up your computing environment
 
 Your third task is for each group member to set up a computing environment with the hardware and software you will need for the project.
@@ -55,7 +67,10 @@ You may use the physical space and computing equipment as you see fit.  Please b
 
 Please note that you aren't required to use one of the PCs: you can use your own laptop if you would prefer.
 
-------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 # Grading
 
 * Proposal:
@@ -73,7 +88,10 @@ Please note that you aren't required to use one of the PCs: you can use your own
 
 * Physical space setup: **15%**
 
-------------------
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+
+
 # Submitting
 
 To submit, share your Google doc with the instructors.
