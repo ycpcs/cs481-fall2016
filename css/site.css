@@ -1,6 +1,6 @@
 body {
-	font:13.34px helvetica,arial,freesans,clean,sans-serif;
-	margin: 0px 80px;
+	font:13px helvetica,arial,freesans,clean,sans-serif;
+	margin: 0 80px;
 	background-color: #F8F8F8;
 	color: #444;
 	line-height:1.4em;
@@ -30,7 +30,7 @@ p {
 }
 
 .content {
-	padding: 0px 20px;
+	padding: 0 20px;
 /* 	background: white; */
 }
 
@@ -80,8 +80,6 @@ pre {
 table {
 	border: 1px solid black;
 	border-collapse: collapse;
-	font-size:inherit;
-	font:100%;
 	margin:1em;
 }
 
