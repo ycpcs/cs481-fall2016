@@ -14,7 +14,7 @@ title: Syllabus
  - **Section 101:**  M        12:00 PM - 12:50 AM <br>
  
 **Location:** KEC118<br>
-**Webpage:**  [http://ycpcs.github.io/cs481-fall2016/](http://ycpcs.github.io/cs481-fall2016/)
+**Webpage:**  [https://ycpcs.github.io/cs481-fall2016/](https://ycpcs.github.io/cs481-fall2016/)
 
 **Instructors**
 
