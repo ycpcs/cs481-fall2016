@@ -5,8 +5,11 @@ title: Senior Software Project I
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
 ## CS481: Senior Software Project I
+
 ## Fall 2016
+
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 This is the website for CS 481 (Senior Software Project I), Fall 2016 at at [York College of Pennsylvania](http://www.ycp.edu).  All information related to the course will be posted here.
