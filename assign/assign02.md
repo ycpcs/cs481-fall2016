@@ -15,11 +15,12 @@ Here are what we would like to see from you for the weekly (Monday) demos.
 
 ## Journal entries (individual)
 
-Each team member should have an issue in the group's issue tracker.  Each week, each team member should add at least one comment to this issue to document his or her work for the week.  The entries should contain information about:
+Each team member should have an issue in the group's issue tracker.  Each week, each team member should add at least one comment to this issue to document his or her work for the week.  
+Each weekly entry should contain a list of the following:
 
-* Research performed (with links/citations about information sources)
-* Design work
-* Implementation (with links to specific commits)
+* Links to issues that were created/opened by you 
+* Links to issues that were closed by you
+* Links to each commit made by you
 
 Please format your entry as a *bulleted list*.
 
