@@ -18,9 +18,9 @@ Your task is to document the requirements for your project by adding them as iss
 
 Milestones should be created for the following system states:
 
--   **Minimal Working System** - this milestone will include the core object model classes and corresponding unit test framework for the system. It should also include a basic functional user interface (possibly console based) to demonstrate functionality.
--   **50% Working System** - this milestone will expand the minimal working system to include additional functionality and an initial graphical interface
--   **Final Working System** - this milestone should demonstrate all the features of the complete and integrated system
+- **Minimal Working System** - this milestone will include the core object model classes and corresponding unit test framework for the system. It should also include a basic functional user interface (possibly console based) to demonstrate functionality.
+- **50% Working System** - this milestone will expand the minimal working system to include additional functionality and an initial graphical interface
+- **Final Working System** - this milestone should demonstrate all the features of the complete and integrated system
 
 ## Issues
 
@@ -36,10 +36,10 @@ Be sure that as progress on the project proceeds, issues are labeled appropriate
 
 # Grading Criteria
 
--   Create milestones in the github issue tracker: **15%**
--   Create a general list of issues describing the high level functionality for all three milestones: **15%**
--   For each of the general issues, create detailed descriptions: **25%**
--   Create a detailed list of issues for the minimal working system components: **20%**
--   For each of the minimal working system issues, create detailed descriptions: **25%**
+- Create milestones in the github issue tracker: **15%**
+- Create a general list of issues describing the high level functionality for all three milestones: **15%**
+- For each of the general issues, create detailed descriptions: **25%**
+- Create a detailed list of issues for the minimal working system components: **20%**
+- For each of the minimal working system issues, create detailed descriptions: **25%**
 
  
