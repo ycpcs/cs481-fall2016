@@ -34,10 +34,10 @@ If your UML and/or OO modeling skills are rusty, **please see us**.  The ability
 
 Your work will be graded as follows:
 
-- Includes most important classes (model, view, and controller): **35%**
-- Shows relationships between classes: **20%**
+- Includes most important classes (model, view, and controller): **40%**
+- Shows relationships between classes: **30%**
 - Separates model classes from UI classes: **20%**
-- Appropriate methods to indicate behavior: **25%**
+- Appropriate methods to indicate behavior: **10%**
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
