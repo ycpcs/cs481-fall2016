@@ -24,6 +24,8 @@ For example, let's say you're developing a 3-D game which eventually will suppor
 
 **Extremely important**: whatever functionality you demonstrate should be implemented in your core object model classes. We do **not** want to see a hacked-together "prototype" that looks good but internally is spaghetti.
 
+Because this milestone involves implementing several of your most important use cases, you will need to make sure that your use cases are documented.  Make sure that your project's issue tracker has an issue for each use case, and each use case issue has a reasonably detailed textual description of the use case.  You can write your use cases as full-blown use cases (see Chapter 9 of *UML Distilled*), or you can write them as user stories (see *Extreme Programming Explained*).  The important concern is that you document the important functionality of the system from the perspective of the user.  **You will not receive full credit for implementing use cases unless they are documented.**
+
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 
@@ -47,7 +49,8 @@ Your group should plan to present for 12 minutes. Your presentation should inclu
 
 Your grade will be determined as follows:
 
+- Use cases are documented as issues: **10%**
 - Important system functionality is demonstrated: **50%**
-- Demonstation of Unit tests: **20%**
-- Discussion of how this functionality is implemented in the underlying object model: **20%**
+- Demonstation of Unit tests: **15%**
+- Discussion of how this functionality is implemented in the underlying object model: **15%**
 - Discussion of how system will be evolved to add remaining functionality: **10%**
