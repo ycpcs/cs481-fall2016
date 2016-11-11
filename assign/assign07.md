@@ -4,11 +4,11 @@ course_number: CS481
 title: Final System, Report, and Presentation
 ---
 
-**Draft Report Due:** Wednesday, Dec XXth by 11:59 PM
+**Draft Report Due:** Wednesday, Dec 14th by 11:59 PM
 
-**Presentations:** Monday, Dec XXst at 1:00 PM in KEC 119
+**Presentations:** Friday, Dec 16th at 12:45 PM in KEC 119
 
-**Final Report Due:** Monday, Dec XXst by 11:59 PM
+**Final Report Due:** Monday, Dec 19th by 11:59 PM
 
 This is a **Team** assignment.
 
@@ -78,6 +78,7 @@ Your assignment grade will be determined as follows:
 
 # Submitting
 
-Submit the draft report **in PDF format** via email to both of your instructors.
+Submit the draft report as a **shared Google Doc** with both of your instructors.
+We will make comments directly in your shared document.
 
 Submit the final report **in PDF format** via email to both of your instructors.
